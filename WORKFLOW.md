@@ -71,7 +71,7 @@ Replace the placeholder Spotify link in:
 
 The current placeholder is:
 
-`https://open.spotify.com/show/033usLXmE0QENQGMiFOmX6`
+`https://open.spotify.com/show/033usLXmE0QENQGMiFOmX6?si=80cf6d0e59b0494c`
 
 Apple Podcasts link is already included:
 
@@ -85,7 +85,7 @@ The LemonSqueezy store link used is:
 ## Production Links Added in v3
 
 - LemonSqueezy store: https://moonbow.lemonsqueezy.com/
-- Spotify: https://open.spotify.com/show/033usLXmE0QENQGMiFOmX6
+- Spotify: https://open.spotify.com/show/033usLXmE0QENQGMiFOmX6?si=80cf6d0e59b0494c
 - Apple Podcasts: https://podcasts.apple.com/us/podcast/sciresmethods/id6786114372
 - Amazon Music: https://music.amazon.com/podcasts/87c30f8b-6719-43fe-804c-fe805aa6786e/sciresmethods
 - YouTube Music: https://www.youtube.com/playlist?list=PLZbxyUEeB7G4
